@@ -1,0 +1,20 @@
+
+  
+  =
+
+ Quelles sont les infos essentielles ?
+ 
+         o Date
+         o Heure
+         o Titre du film
+         o Durée
+         o Réalisat(rice|eur)
+         o VF | VOSTFR | VO
+         o Lieu de la séance
+         (* Lien vers l'affiche, lien vers la BA, liste des acteurs)
+ 
+ Elles ont toutes un point commun :
+ 
+ 
+ Ce sont des données textuelles
+ 

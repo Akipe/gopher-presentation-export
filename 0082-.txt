@@ -1,0 +1,15 @@
+
+  
+  =
+
+ Reste la fonctionnalité de réservation et de paiement en ligne
+ 
+ Question à laquelle nous ne pouvons pas répondre :
+ Est-ce que c'est vraiment nécessaire, quelle est la demande ?
+ 
+ Si le besoin est essentiel nous pouvons explorer d'autres pistes :
+ https://anaellebeignon.fr/design-for-obsolete-devices.html
+ Cherche des alternatives à des services numériques (transports
+ publiques, banque) qui requièrent la propriété d'un smartphone
+ sans lequel c'est un parcours du combattant
+ 

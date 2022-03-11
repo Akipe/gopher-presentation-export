@@ -1,0 +1,22 @@
+
+  
+  =
+
+ Revenons sur notre exemple du cinéma et tentons une pseudo écoconception
+ 
+ 1 → On doit réduire l’empreinte environnementale du service, qu’il soit
+     numérique ou non ;
+ 
+ Puisque le service existe déjà et qu'il est assez peu 
+ sobre le point de départ est bien là.
+ 
+ 2 → On doit répondre avec pertinence aux besoins exprimés par les usagers ;
+ 
+ Servir les horaires des séances, des infos sur les films
+ 
+ 3 → Il faut partir du principe que la numérisation n’est pas forcément la
+     meilleure option pour répondre aux deux premiers points.
+ 
+ Impossible à savoir sans discuter avec le cinéma, pour la présentation 
+ on considère que c'est une bonne option
+ 

@@ -1,0 +1,11 @@
+
+  
+  =
+
+ Les commandes peuvent faire peur mais les alias les alias les alias
+ 
+ Par exemple :
+ $>filmstar | cesoir
+ $>filmstar | ceweekend
+ $>fichefilm Dune
+ 

@@ -1,0 +1,8 @@
+
+  
+  =
+
+ N'a directement rien à voir avec la taille et la performance du web
+ Il se trouve que lorsque l'on cherche à limiter l'impact d'un site
+ on le rend presque toujours plus performant
+ 

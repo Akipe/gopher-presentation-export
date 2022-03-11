@@ -1,0 +1,22 @@
+
+  
+  =
+
+ $>snarf gopher://localhost -
+ iHoraires des cinémas Star et Star Saint-Exupéry        Err     localhost     70
+ 0   * Par jour  /star_seances.txt       localhost       70
+ 0   * Par film  /star_films.txt localhost       70
+ $>snarf gopher://localhost/0/star_seances.txt -
+ ---------------------------------------
+ A la vie
+ Aude Pépin
+ 1h18
+ Documentaire
+ https://www.cinema-star.com/film/326515/video/
+ https://fr.web.img4.acsta.net/r_148_200/pictures/21/09/14/10/29/2636437.jpg
+ VF
+ Saint-Exupéry
+ ---------------------------------------
+ Debout les femmes !
+ ...
+ 

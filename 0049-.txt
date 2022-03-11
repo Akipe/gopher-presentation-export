@@ -1,0 +1,24 @@
+
+  
+  =
+
+ Nous aurions donc un format "orienté" film et un autre "orienté" séance, plus
+ facile à manipuler
+ 
+ Par exemple, si l'on veut obtenir toutes les séances ajourd'hui après 17h :
+ 
+ $>grep $(date +'%A') seances.txt | awk -F '\t' '{if($2>"17h00")\
+         {printf "%-6s %-30s %-10s %5s\n",$2,$3,$4,$5}}' 
+ 17h00  Dune                                   2h36       Denis Villeneuve
+ 17h15  Les Amours d'Anaïs                     1h38       Charline Bourgeo...
+ 17h35  Cette musique ne joue pour personne    1h47       Samuel Benchetrit
+ 17h35  Eugénie Grandet                        1h45       Marc Dugain
+ 17h35  Flag Day                               1h48       Sean Penn
+ 17h40  Le Sommet des Dieux                    1h30       Patrick Imbert
+ 17h40  Serre Moi Fort                         1h37       Mathieu Amalric
+ 17h50  I Am Greta                             1h37
+ 18h00  Tout s'est bien passé                  1h52       François Ozon
+ 18h10  Les Intranquilles                      1h58       Joachim Lafosse
+ 19h15  After Love                             1h29       Aleem Khan
+ ...
+ 

@@ -1,0 +1,22 @@
+
+  
+  =
+
+ Un format simple et lisible par un humain pourrait être
+ 
+ -------------
+ Titre
+ Réalisateur / Réalisatrice
+ Durée
+ Liste d'acteurs et d'actrices
+ Genre
+ Lien vers l'affiche
+ Lien vers la BA
+ VF / VOSTFR
+ Lieu
+ Date1        horaire1	horaire2	horaire3
+ Date2        horaire1
+ Date3        horaire1	horaire2
+ Date4        horaire1	horaire2
+ -------------
+ 

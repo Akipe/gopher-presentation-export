@@ -1,0 +1,9 @@
+
+  
+  =
+
+ Le web est tellement lent que Google a un outil très sophistiqué pour auditer
+ la performance d'un site
+ 
+ https://developers.google.com/speed/pagespeed/insights
+ 

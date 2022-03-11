@@ -1,0 +1,9 @@
+
+  
+  =
+
+ Le site des cinémas Star est (trop) lourd 
+ 
+          taille  ⏱ 💻    ⏱ 📱  nb requêtes
+ Star     ~3Mo    ~5/10s  >15s  60
+ 

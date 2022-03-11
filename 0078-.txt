@@ -1,0 +1,27 @@
+
+  
+  =
+
+ Le service est hébergé sur un Raspberry 3B chez moi
+ Le Raspberry est emprunté à quelqu'un dont je me suis assuré qu'il n'achèterait
+ pas de matériel pour compenser sa perte
+ 
+ Est-ce que quelqu'un a un réseau de pc zombies sous la main pour faire un test
+ de montée de charge ?
+ 
+ Pistes d'améliorations :
+ 
+ Utiliser de l'openhardware plutôt qu'un raspberry pi3        
+ OLinuXino Allwinner A10
+ Meilleure garantie de pouvoir obtenir des pièces et réparer la machine
+ 
+ Contrôler soit même la source d'énergie
+ 
+ https://solar.lowtechmagazine.com/power.html        	
+ Resitue le numérique, son accessibilité dépendant de la quantité
+ d'énergie disponible à l'endroit où il se trouve
+ Voir aussi : https://designcommun.fr/cahiers/situer-le-numerique/
+              https://hal.archives-ouvertes.fr/hal-02867603/document
+ 
+ Acheter un nom de domaine et faire du dynDNS
+ 

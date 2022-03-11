@@ -1,0 +1,12 @@
+
+  
+  =
+
+ → doit aussi être accessible, respecter la vie privée, être libre etc
+ 
+         Peut logger l'IP (forcément)
+         Refuse de déposer des cookies, d'éxecuter du code sur votre machine (JS)
+         À une communauté opensource étonamment forte
+         Que du texte, n'est pas difficile à *rendre* accessible mais
+         ne contraint pas non plus à ce que ça le soit (on en parle ensute)
+ 

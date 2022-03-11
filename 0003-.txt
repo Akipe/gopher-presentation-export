@@ -1,0 +1,17 @@
+
+  
+  =
+
+ Le site des cinémas Star est (trop) lourd 
+ 
+          taille  ⏱ 💻    ⏱ 📱  nb requêtes
+ Star     ~3Mo    ~5/10s  >15s  60
+ 
+ 
+ Alors que les fonctionnalités principales sont :
+ 
+ o Communiquer sur 
+         o les horaires des films
+         o d'éventuels évènements
+ o Permettre la réservation et le paiement
+ 

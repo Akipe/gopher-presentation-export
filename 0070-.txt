@@ -1,0 +1,16 @@
+
+  
+  =
+
+ Attention, ça n'est pas une solution environnementale magique !
+ 
+ Rien n'empêche de faire transiter de très gros fichiers textes inutiles
+ 
+ Ne supporte pas la compression
+ 
+ Avec gzip
+ 
+         	  gopher  html  tout le site du star
+ sans compression  30Ko    200Ko 1,3Mo
+ avec compression  5,2Ko   19Ko  0,7Mo
+ 

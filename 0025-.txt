@@ -1,0 +1,11 @@
+
+  
+  =
+
+ Résultats :
+ 
+        Poids moyen  Nb requêtes FCP   TTI  Temps de chargement (3G) 
+ Avant  3.6Mo        65          6s    13s  >20s
+ Après  159Ko        16          1,1s  1,1s 1,5s
+ Cible  150Ko        15          1,5s  2s   1,5
+ 

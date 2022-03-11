@@ -1,0 +1,13 @@
+
+  
+  =
+
+ Une autre solution :
+ 
+ Protocole Gopher 
+ https://en.wikipedia.org/wiki/Gopher_(protocol)
+ https://www.rfc-editor.org/rfc/rfc1436.txt 
+ 16 (courtes) pages de specs 
+ Incroyablement simple
+ Oui personne ne l'utilise
+ 

@@ -1,0 +1,24 @@
+
+  
+  =
+
+ Comment filtrer sur du texte ?
+ 
+ Pas un souci puisque le monde entier utilise des systèmes Unix
+ grep,cut,sed,awk,head...
+ 
+ On peut lister tous les films à l'affiche :
+ 
+ $>sed -n -e '/--/,+1 {/--/d;p}' films.txt
+ Drive My Car
+ Rita et Crocodile
+ Douce France
+ Illusions Perdues
+ Freda
+ COURTS DU GRAND EST #2
+ COURTS DU GRAND EST #1
+ COURTS FANTASTIQUES DU GRAND EST
+ ENTENDEZ-VOUS DANS NOS CAMPAGNES
+ ROMANCES DU GRAND EST
+ ...
+ 

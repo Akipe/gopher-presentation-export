@@ -1,0 +1,10 @@
+
+  
+  =
+
+ Attention, ça n'est pas une solution environnementale magique !
+ 
+ Rien n'empêche de faire transiter de très gros fichiers textes inutiles
+ 
+ Ne supporte pas la compression
+ 

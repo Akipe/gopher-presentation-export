@@ -1,0 +1,15 @@
+
+  
+  =
+
+ → favoriser la durée de vie des équipements / optimisé pour les conditions
+   d'accès les plus difficiles
+ 
+         Les logiciels de l'écosystème étant petits et très faciles à compiler
+         ils tournent sur un grand nombre de plateformes peu importe 
+         leurs puissances
+         La culture dominante n'est pas particulièrement écolo mais est
+         clairement parcourue par une forme de sobriété numérique (mise en
+         oeuvre par le fait que tout soit textuel) qui colle bien avec
+         l'écoconception
+ 

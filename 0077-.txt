@@ -1,0 +1,9 @@
+
+  
+  =
+
+ J'avais envie de pouvoir l'utiliser au quotidien
+ J'ai donc fait un petit script (python eh) qui parcours le site du Star pour
+ en récupérer les infos et les transformer dans les fichiers que l'on a 
+ utilisé jusque là
+ 

@@ -1,0 +1,18 @@
+
+  
+  =
+
+ Plus la quantité échangée est petite moins la compression contribue à la 
+ diminution des impacts environnementaux de l'échange
+ 
+ De plus l'utilisation de compression pourrait éventuellement produire un effet
+ rebond. Elle nous permet d'envoyer de gros contenus à moindre coût ce qui
+ limite l'intérêt que l'on aurait à diminuer leur taille même si c'est utile
+ 
+ Attention, cela ne veut pas dire que la compression est une mauvaise chose
+ Il faut simplement faire attention à ses effets et prendre acte que
+         o son utilité décroit de 
+           pair avec la taille des données
+         o qu'elle peut avoir des effets contre intuitif sur un service n'étant 
+           pas conçu avec un impératif de frugalité
+ 

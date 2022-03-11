@@ -1,0 +1,7 @@
+
+  
+  =
+
+ Nous aurions donc un format "orienté" film et un autre "orienté" séance, plus
+ facile à manipuler
+ 

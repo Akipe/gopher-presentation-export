@@ -1,0 +1,23 @@
+
+  
+  =
+
+ Puis obtenir leurs infos spécifiques :
+ 
+ $>sed -n -e '/Dune/,/--/ {/--/!p}' films.txt
+ Dune
+ Denis Villeneuve
+ 2h36
+ Timothée Chalamet, Gloria Obianyo, Duncan Pow, Rebecca Ferguson, Charlie Rawes
+ Drame, science-fiction
+ https://www.cinema-star.com/film/265883/video/
+ https://fr.web.img6.acsta.net/r_148_200/pictures/21/08/10/12/20/4633954.jpg
+ VOSTFR
+ Saint-Exupéry
+ jeudi 30 septembre      13h55   17h00   20h10
+ vendredi 1 octobre      13h55   17h00   20h10
+ samedi 2 octobre        10h50   13h55   17h00   20h10
+ dimanche 3 octobre      10h50   13h55   17h00   20h10
+ lundi 4 octobre 13h55   17h00   20h10
+ mardi 5 octobre 13h55   17h00   20h10
+ 

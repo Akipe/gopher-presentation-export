@@ -1,0 +1,15 @@
+
+  
+  =
+
+ Si l'on applique cette grille de lecture à notre sujet on obtient selon moi :
+ 
+ Le web au mieux *requiert* que l'on ait des pratiques incompatibles 
+ avec l'écoconception, au pire décourage à en avoir
+ 
+ → favoriser le travail de maintenance et d'évolution
+         
+         1217 standards en mars 2020, pleins de nouveaux tout le temps
+         impossible de tout implémenter correctement, de tout comprendre
+         https://drewdevault.com/2020/03/18/Reckless-limitless-scope.html
+ 

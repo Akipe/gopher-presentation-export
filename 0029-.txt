@@ -1,0 +1,28 @@
+
+  
+  =
+
+ → Le service doit être optimisé pour les conditions d’accès les plus difficiles
+   (équipement ancien ou peu puissant, peu de réseau, données payantes) ;
+ 
+ Logiciel très performant, pages très légères, format de donnée simple
+ 
+ → L’éco-conception numérique n’est que la partie d’un cercle vertueux qui
+   intègre accessibilité, respect de la vie privée, open data, logiciel libre,
+   etc… ;
+ 
+ Que du libre, code ouvert, pas de pistage, pas de pub, aussi accessible que
+ possible pour les personnes en situation de handicap
+ 
+ → Le partage et la documentation du travail effectué doit être la norme, pas
+   l’exception ;
+ 
+ Cette présentation, README compréhensible, projet volontairement suffisamment
+ petit pour être compris par une seule personne dans un temps limité
+ 
+ → Le travail effectué doit être mesuré et doit s’intégrer dans une démarche
+   préexistante de transformation écologique.
+ 
+ Voir les indicateurs précédemment évoqués
+ Pour la démarche préexistante voir avec le cinéma
+ 

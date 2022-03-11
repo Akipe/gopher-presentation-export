@@ -1,0 +1,14 @@
+
+  
+  =
+
+ Gopher *encourage* à avoir des comportements compatibles avec 
+ l'ecoconception numérique
+ 
+ → favoriser le travail de maintenance et d'évolution
+ 
+         Le standard n'a pas changé en 30 ans
+         Les serveurs et clients tiennent en 2000 lignes de C
+         Peut être pleinement et correctement implémenté par
+         n'importe quel dev médiocre
+ 

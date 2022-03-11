@@ -1,0 +1,16 @@
+
+  
+  =
+
+ Par ailleurs, sur l'accessibilité :
+ https://ssb22.user.srcf.net/css/gopher.html
+ 
+ L'HTML permet à certains outils d'offrir une meilleure accessibilité à travers
+ de certaines métadonnées pour, par exemple, signaler la langue utilisée pour 
+ que la lecture se fasse avec la bonne prononciation
+ 
+ Les sites Gopher ont tendance à inclure pas mal d'ascii art (puisque pas
+ d'image inline) ce qui est pas super
+ Quand l'on rédige du contenu textuel dont on ne connaît pas le public à priori
+ éviter si possible d'utiliser de l'ascii art
+ 

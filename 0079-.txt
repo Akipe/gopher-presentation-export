@@ -1,0 +1,16 @@
+
+  
+  =
+
+ Reprise des indicateurs de performance du début :
+ 
+ $>time -f "%es" snarf gopher://nom-de-domaine/0/star.cgi\?films - 1> /dev/null  
+ 0,13s
+ 
+         		     cible      pc	tel
+ Poids moyen                  150Ko      ~35Ko        ~35Ko
+ Nb moyen de requêtes         15         1       1
+ FCP                          1,5s       0,13s        1s
+ TTI                          2s         0,13s        1s
+ Temps de chargements (3G)    1,5s       0,13s        1s
+ 

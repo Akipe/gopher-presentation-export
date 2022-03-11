@@ -1,0 +1,22 @@
+
+  
+  =
+
+ La compression agissant ici que lors du transfert de données,
+ cela pose la question :
+ 
+ Où et quand la taille des données a-t-elle le plus d'impact ?
+         1. Stockage sur le serveur
+         2. Transfert du serveur au client
+         3. Traitement / stockage par le client
+ 
+ Peu importe la réponse à cette question (je ne l'ai pas), s'il l'on agit sur
+ la quantité totale de données produites on agit sur toute la chaîne et donc
+ forcément là où c'est le plus important
+ La nature de ce que l'on peut mettre dans un site Gopher *incite*, à défaut de
+ nécessairement contraindre, à la production et l'échange d'une petite quantité
+ de donnée
+ 
+ 40Ko -> gzip -> 10Ko  | 30Ko en moins
+ 3Mo  -> gzip -> 750Ko | 2250Ko en moins
+ 

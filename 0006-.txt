@@ -1,0 +1,13 @@
+
+  
+  =
+
+ Le web est tellement lent que Google a un outil très sophistiqué pour auditer
+ la performance d'un site
+ 
+ https://developers.google.com/speed/pagespeed/insights
+ 
+ 
+          Note globale  FCP         TTI   LCP
+ Star     45/100        3.2s        6.2s  13.7s
+ 

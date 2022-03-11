@@ -1,0 +1,11 @@
+
+  
+  =
+
+ On peut voir par exemple des sites tels que :
+ https://www.vw.ca/carbonneutralnet/fr/
+ 
+          Note globale  FCP   TTI    LCP
+ Volk CA  45/100        2.4s  13.2s  4.2s
+ 
+ Annoncé : "Plus propre que 99 % des pages testées"

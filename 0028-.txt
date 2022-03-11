@@ -1,0 +1,21 @@
+
+  
+  =
+
+ → Le service doit favoriser la durée de vie des équipements ;
+ 
+ Logiciel performant, os bien maintenu
+ 
+ → Le service doit réduire la consommation de ressources (environnement comme
+   informatique) en valeur absolue ;
+ 
+ Si l'on compare à l'existant, facile
+ 
+ → Le service doit favoriser sa propre durée de vie en répondant à des besoins
+   pertinents à moyen et long terme et en facilitant le travail de maintenance et
+   d’évolution ;
+ 
+ Logiciel libre, code ouvert et simpl(e|iste), tant que le cinéma existera nous
+ aurons besoin de connaître les horaires des séances - à moins qu'un changement
+ radical survienne dans la façon dont les cinémas fonctionnent
+ 

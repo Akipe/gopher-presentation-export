@@ -1,0 +1,8 @@
+
+  
+  =
+
+ Le contenu est responsive
+ Parce qu'il suffit que le client aille à la ligne quand le texte est trop long
+ C'est une technologie hautement avancée
+ 

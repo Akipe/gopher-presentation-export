@@ -1,0 +1,18 @@
+
+  
+  =
+
+ Pour comparer les écosystèmes du web et de gopher nous pouvons utiliser le
+ concept d'Affordance
+ 
+ "La caractéristique d'un objet ou d'un environnement qui suggère
+  à son utilisateur son mode d'usage ou autre pratique"
+         		     -- définition Wikipedia francophone
+ 
+ Pour prendre conscience du concept demandons nous quelle est la différence entre
+ une corde, une barrière en bois et du fil barbelé :
+         
+         o la corde suggère tout gentiment
+         o la barrière en bois demande
+         o le fil barbelé exige, impose
+ 

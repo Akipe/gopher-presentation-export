@@ -1,0 +1,12 @@
+
+  
+  =
+
+ C'est un peu compliqué, le format lisible pour les humains l'est moins pour les
+ machines et c'est orienté film
+         "Je sais quel film je veux voir
+          J'obtiens des infos sur ce film en particulier
+          Je repère les séances qui m'arrangent"
+ 
+ Et si on s'inspirait de l'allure des fichiers texte système ?
+ 

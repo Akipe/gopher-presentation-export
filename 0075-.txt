@@ -1,0 +1,19 @@
+
+  
+  =
+
+ Mise en place du service :
+ 
+ $>git clone git://r-36.net/geomyidae
+ $>cd geomyidae
+ $>make
+ $>sudo make install
+ $>sudo mkdir -p /var/gopher
+ $>cat > index.gph <<EOF
+ Horaires des cinémas Star et Star Saint-Exupéry
+ [0|   * Par jour|star_seances.txt|localhost|70]
+ [0|   * Par film|star_films.txt|localhost|70]
+ EOF
+ $>sudo mv index.gph /var/gopher
+ $>geomyidae
+ 

@@ -1,0 +1,22 @@
+
+  
+  =
+
+ En affichant les liens vers les affiches on donne à voir une partie de 
+ ce qui est dissimulé dans le web à savoir les dizaines et les dizaines 
+ de requêtes qui découlent de la requête initiale
+ 
+ Le web transforme une seule demande (un clic sur un favoris, la pression
+ sur la touche entrée après avoir écrit l'url) en >30 requêtes 
+ auxquelles nous ne pouvons pas consentir de façon éclairée
+ 
+ Nous montrons les urls qui permettent à l'utilisateur d'avoir 
+ accès à la ressource et s'il souhaite tout de même visualiser 
+ toutes les affiches il peut le faire puisque
+ 
+ 
+         			"Développez des programmes capables de
+         			 gérer des flux de texte puisque c'est 
+         			 l'interface universelle"
+         					      - Peter H. Salus
+ 

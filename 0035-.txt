@@ -1,0 +1,10 @@
+
+  
+  =
+
+ Comparatif de taille entre les données du site du Star et les notres:
+ 
+         	Contenu   Taille totale
+ Star            200Ko     3Mo
+ Format Texte    30Ko      30Ko
+ 

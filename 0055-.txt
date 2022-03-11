@@ -1,0 +1,12 @@
+
+  
+  =
+
+ Maintenant que l'on a deux formats de données simples, dont on peut extraire
+ avec le yeux et avec la machine l'information que l'on veut
+ Comment faire circuler l'information du cinéma jusqu'à nos yeux ?
+ 
+ La réponse évidente est un petit serveur http sur une petite machine avec
+ deux fichiers à sa racine, seances.txt et films.txt
+ Pas de js, pas de cookie, pas de chiffrement ?
+ 

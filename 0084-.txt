@@ -1,0 +1,92 @@
+
+  
+  =
+
+ 
+ En conclusion et pour relativiser toute cette présentation je voudrais revenir
+ sur le troisième point de départ :
+ 
+ Il faut partir du principe que la numérisation n'est pas forcément la meilleure
+ option pour réduire l'empreinte environnementale d'un service et/ou pour
+ répondre avec pertinence aux besoins exprimés par les usagers
+ 
+ Nous sommes pour la plupart convaincus par l'idée que le numérique optimise,
+ qu'il optimise toujours de façon heureuse[1], qu'à tout problème correspondrait
+ sa solution logicielle, que son déploiement est inéluctable, qu'il est la
+ promesse d'un futur meilleur
+ Le législateur vote la numérisation des services publics, le vice-président
+ numérique valide la dématérialisation des processus de son université et
+ l'informaticien technophile - nous - l'esprit et l'idéologie conditionnés par
+ sa formation[2], met en oeuvre ces systèmes avec plus ou moins d'enthousiasme
+ selon si l'on utilise la dernière technologie à la mode ou pas
+ 
+ N'avons nous pas oublié quelques personnes ?
+ 
+ En 2019 dans son rapport "Dématérialisation et inégalités d'accès aux services
+ publics" le défenseur des droits écrit "Aucune évolution technologique ne peut
+ être défendue si elle ne va pas dans le sens de l'amélioration des droits, pour
+ toutes et pour tous." 
+ Il enchaîne, "Le processus de dématérialisation des démarches
+ administratives à l’œuvre depuis plusieurs années, et en intensification
+ constante, pose une question particulière pour [...] les personnes en situation
+ de handicap, les majeurs protégés, les détenus [...] qui, pour diverses
+ raisons, sont dans les faits "empêchée" d'y accéder."
+ 
+ Peut-être plus sévère encore, dans "Contre l'alternumérisme" Julia Laïnae et
+ Nicolas Alep écrivent "Trop complexe pour qu’aucun humain ne soit à même d’en
+ comprendre le fonctionnement complet", "Les technologies numériques ne sont pas
+ réappropriables, car elles sont le fruit d’une société de masse, d’experts,
+ constituée de rapports de domination et d’exploitation, d’infrastructures
+ complexes et gigantesques dont les citoyens ne peuvent qu’être dépossédés : on
+ ne mettra pas des centrales nucléaires en autogestion, de même qu’on
+ n’impliquera pas les citoyens de manière « participative » dans l’exploitation
+ d’une mine au Congo, ou qu’on ne produira pas de manière « écologique » des
+ claviers en plastique, des puces en silicium, des écrans de verre, des milliers
+ et milliers de kilomètres de câbles sous-marins."
+ 
+ Ces textes nous emmènent nous informaticiens, et particulièrement ceux qui
+ imaginent un numérique meilleur, à faire face à nos paradoxes.
+ 
+ C'est le monde pour laquelle nous avons fait nos études, dans lequel nous avons
+ travaillé durant des années, celui pour lequel beaucoup d'entre nous nous
+ passionnons. Il nous divertit et nous enthousiasme, nous contribuons aux
+ logiciels libres, nous montons des serveurs personnels à la maison, nous
+ aidons nos proches à s'approprier leurs terminaux, nous sommes ceux à travers
+ qui le monde associatif existe numériquement (quand ils ne sont pas uniquement
+ chez facebook et twitter). Plus concrètement il nous nourrit, nous offre même
+ un relative sécurité de l'emploi que beaucoup nous envient. Il est naturel
+ de ne pas pouvoir se résoudre à le voir disparaître.
+ 
+ Et pourtant qui mieux que nous pouvons en être les critiques ? Qui comprend
+ mieux qu'une architecte des systèmes d'information ce que la phrase "Le
+ numérique est trop complexe pour qu'aucun humain ne soit à même d'en comprendre
+ le fonctionnement complet" implique ? Qui comprend mieux qu'un gestionnaire
+ de parc le gâchis et la dangerosité insupportable que représente le
+ renouvellement incessant des machines ? Qui mieux qu'une délégué à la
+ protection des données pour se méfier du pouvoir de collecte et de surveillance
+ du numérique ? Qui mieux qu'un ingénieur réseau pour constater la constante
+ augmentation de la quantité d'information échangée et relativiser les efforts
+ considérables que l'on déploie pour que nos infrastructures suivent ? Qui mieux
+ qu'un développeur pour apprécier la futilité de ce que l'on créer, les
+ quantités absurdes de temps et d'argent que l'on investit à résoudre des
+ problèmes qui n'en sont pas (voir la pose des jours de télétravail dans Agadir)
+ ? Qui mieux que la directrice d'un service du numérique pour savoir que non
+ l'informatique ne réduit pas toujours les coûts, que non on ne rend pas
+ toujours service, pour savoir que l'on en fait toujours trop, tout le temps, et
+ qu'une fois que l'on en a trop fait on en fait encore plus.
+ 
+ C'est avec ces paradoxes là en tête que j'ai écrit cette présentation. Avec le
+ sentiment de créer, mieux peut-être, mais de créer tout de même là où il est
+ urgent de retirer.
+ Les professionnels du numérique doivent entendre et comprendre
+ ses critiques même les plus radicaux. Ils cherchent d'avantage
+ à nous libérer d'un travail qui nous échappe et d'une demande sans cesse
+ croissante à laquelle nous ne pouvons répondre décemment, que de nous rendre
+ obsolètes et nous faire culpabiliser.
+ Alors que nous allons vers toujours plus de contraintes financières, de
+ contraintes techniques, de contraintes environnementales, il est urgent d'être
+ en paix avec nos paradoxes et d'accepter que parfois un travail bien fait est
+ un travail qui n'est pas fait.
+ 
+ [1] https://communemag.com/optimize-what/
+ [2] https://seafile.unistra.fr/f/7cb9c6b99d014da78ac4/?dl=1

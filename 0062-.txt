@@ -1,0 +1,15 @@
+
+  
+  =
+
+ → favoriser la durée de vie des équipements / optimisé pour les conditions
+   d'accès les plus difficiles
+ 
+         La culture dominante dans le web promeut l'utilisation de technos
+         et pratiques dispendieuses et l'ammoncellement presque sans fin
+         de technologies les unes sur les autres
+         résultat : toute personne avec une machine faible et vieille tremble
+         	   de peur à l'idée d'ouvrir firefox
+         	   les nouveaux développeurs sont directement catapultés sur
+         	   des frameworks hyper abstraits et peu performants	
+ 

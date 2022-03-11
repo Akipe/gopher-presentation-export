@@ -1,0 +1,12 @@
+
+  
+  =
+
+ Et si l'on choisit d'aller voir Notturno on vérifie 
+ les séances disponibles le weekend
+ 
+ $>sed -n -e '/\(samedi\|dimanche\).*Notturno/p' seances.txt | \
+   cut -d'      ' -f 1,2,7
+ samedi 2 octobre        15h30   Star
+ dimanche 3 octobre      15h30   Star
+ 

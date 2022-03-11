@@ -1,0 +1,15 @@
+
+  
+  =
+
+ Les programmes des cinémas ne sont généralement mis à jour qu'une fois
+ par semaine.
+ 
+ On peut donc imaginer soit :
+         o créer un cron pour lancer le script python les mercredi
+         o utiliser la fonctionnalité de cgi des serveurs gopher pour,
+           quand le serveur reçoit une requête, vérifier la date de la
+           dernière et regénérer le fichier texte s'il y a besoin
+ 
+ Ainsi on ne requiert le site du Star que lorsque c'est nécessaire
+ 
